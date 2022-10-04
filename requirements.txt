@@ -1,0 +1,4 @@
+py-cord
+asyncio
+py-cord[spped]
+py-cord[voice]
