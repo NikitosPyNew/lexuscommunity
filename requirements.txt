@@ -1,4 +1,4 @@
 py-cord
 asyncio
-py-cord[spped]
+py-cord[speed]
 py-cord[voice]
